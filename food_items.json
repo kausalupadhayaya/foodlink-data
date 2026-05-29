@@ -1,35 +1,21 @@
 [
-  {
-    "id": 101,
-    "title": "Fresh Bread Pack",
-    "category": "Bakery",
-    "description": "Unsold bread available for same-day pickup.",
-    "suburb": "South Brisbane",
-    "latitude": -27.4810,
-    "longitude": 153.0234,
-    "contactEmail": "donor1@example.com",
-    "isFavourite": false
-  },
-  {
-    "id": 102,
-    "title": "Vegetable Box",
-    "category": "Fresh Produce",
-    "description": "Mixed vegetables from a local stall.",
-    "suburb": "West End",
-    "latitude": -27.4798,
-    "longitude": 153.0094,
-    "contactEmail": "donor2@example.com",
-    "isFavourite": false
-  },
-  {
-    "id": 103,
-    "title": "Cooked Rice Meals",
-    "category": "Prepared Meals",
-    "description": "Three ready meals available tonight.",
-    "suburb": "St Lucia",
-    "latitude": -27.4975,
-    "longitude": 153.0137,
-    "contactEmail": "donor3@example.com",
-    "isFavourite": false
-  }
-]
+{ "title": "Fresh Bread",
+"foodType": "Bakery",
+"quantity": "2 loaves",
+"description": "Freshly baked",
+"pickupTime": "Today 5:00 PM",
+"suburb": "Brisbane City",
+"latitude": -27.4698,
+"longitude": 153.0251,
+"contactEmail": "donor1@example.com"
+},
+{ "title": "Vegetable Box",
+"foodType": "Fresh Produce",
+"quantity": "1 box",
+"description": "Mixed vegetables",
+"pickupTime": "Tomorrow 10:00 AM",
+"suburb": "South Brisbane",
+"latitude": -27.4800,
+"longitude": 153.0200,
+"contactEmail": "donor2@example.com"
+} ]
