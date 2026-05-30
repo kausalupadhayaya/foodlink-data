@@ -8,6 +8,7 @@
 "latitude": -27.4698,
 "longitude": 153.0251,
 "contactEmail": "donor1@example.com"
+"imageUrl" : "https://unsplash.com/photos/brown-bread-on-brown-wooden-tray-w2ZFjDnUL3w"
 },
 { "title": "Vegetable Box",
 "foodType": "Fresh Produce",
@@ -18,4 +19,5 @@
 "latitude": -27.4800,
 "longitude": 153.0200,
 "contactEmail": "donor2@example.com"
+  "imageUrl" : "https://unsplash.com/photos/a-person-holding-a-box-full-of-vegetables-7lT3fCpHI6s"
 } ]
